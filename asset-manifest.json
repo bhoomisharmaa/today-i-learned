@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bhoomisharmaa/today-i-learned.git/static/css/main.4ba629d8.css",
+    "main.js": "/bhoomisharmaa/today-i-learned.git/static/js/main.30fb93a9.js",
+    "static/js/527.a17e348d.chunk.js": "/bhoomisharmaa/today-i-learned.git/static/js/527.a17e348d.chunk.js",
+    "index.html": "/bhoomisharmaa/today-i-learned.git/index.html",
+    "main.4ba629d8.css.map": "/bhoomisharmaa/today-i-learned.git/static/css/main.4ba629d8.css.map",
+    "main.30fb93a9.js.map": "/bhoomisharmaa/today-i-learned.git/static/js/main.30fb93a9.js.map",
+    "527.a17e348d.chunk.js.map": "/bhoomisharmaa/today-i-learned.git/static/js/527.a17e348d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ba629d8.css",
+    "static/js/main.30fb93a9.js"
+  ]
+}
